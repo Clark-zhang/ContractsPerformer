@@ -1,6 +1,6 @@
 # ContractsPerformer
 
-Use a array contract to maintain the fields you want from another 
+Use an array contract to maintain the fields you want from another 
 complicated array
 
 ### Run test
