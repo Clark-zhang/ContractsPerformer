@@ -1,0 +1,12 @@
+{
+  "name": "clarkzhang/ContractsPerformer",
+  "description": "Extracts array values by contracts.",
+  "type": "library",
+  "authors": [
+    {
+      "name": "ClarkZhang",
+      "email": "itpsyzhang@gmail.com"
+    }
+  ],
+  "require": {}
+}
